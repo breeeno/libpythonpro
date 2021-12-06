@@ -1,6 +1,8 @@
 # libpythonpro
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
+Link para o curso [Python Pro] (https://pythonpro.com.br/)
+
 Suportada versão 3 de python
 
 Para instalar:
@@ -15,4 +17,3 @@ Para conferir qualidade do código:
 ``console
 flake8
 ``
-!
