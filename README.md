@@ -5,6 +5,10 @@ Link para o curso [Python Pro] (https://pythonpro.com.br/)
 
 Suportada versão 3 de python
 
+
+[![Updates](https://pyup.io/repos/github/breeeno/libpythonpro/shield.svg)](https://pyup.io/repos/github/breeeno/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/breeeno/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/breeeno/libpythonpro/)
+
 Para instalar:
 
 ``console
