@@ -33,4 +33,6 @@ jobs:
         with:
           checkName: 'flake8_py3'   # NOTE: this needs to be the same as the job name
       - name: Rodar Pytest
-        uses: py-actions/pytest libpythonpro
+        uses: py-actions/pytest@v1
+        with:
+          checkName: libpythonpro
