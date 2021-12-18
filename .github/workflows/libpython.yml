@@ -30,5 +30,3 @@ jobs:
           pip install -r requirements-dev.txt
       - name: Rodar flake8
         uses: py-actions/flake8@v1
-      - name: Rodar teste automatizado
-        uses: pytest
