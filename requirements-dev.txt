@@ -10,4 +10,10 @@ atomicwrites==1.4.0
 py==1.11.0
 attrs==21.2.0
 pytest==6.2.5
+
+
+# Coverage
+coverage==6.2
+pytest-cov==3.0.0
+
 -r requirements.txt
