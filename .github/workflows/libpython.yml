@@ -32,8 +32,8 @@ jobs:
       - name: Rodar Testes Automáticos
         run: |
           pytest --cov=libpythonpro
-      - name: Cobertura de testes com codecov
+      - name: Relatório Coverage
         env:
           CODECOV_TOKEN: '8556de94-ee02-47a2-94f6-37b4857e28c2'
         run: |
-          codecov
+            codecov
