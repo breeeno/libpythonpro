@@ -33,6 +33,7 @@ jobs:
         run: |
           pytest --cov=libpythonpro
       - name: Cobertura de testes com codecov
-        uses: codecov/codecov-action@v2
-        with:
-         token: ${{secrets.CODECOV_TOKEN}}
+        env:
+          CODECOV_TOKEN: '8556de94-ee02-47a2-94f6-37b4857e28c2'
+        run: |
+          codecov
