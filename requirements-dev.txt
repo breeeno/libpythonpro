@@ -10,6 +10,8 @@ atomicwrites==1.4.0
 py==1.11.0
 attrs==21.2.0
 pytest==6.2.5
+pytest-mock==3.6.1
+
 
 
 # Coverage
