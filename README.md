@@ -22,3 +22,13 @@ Para instalar depedências de teste:
 Para conferir a qualidade do código:
 
 ``pipenv run flake8``
+
+Tòpicos a serem abordados:
+
+1 - Git
+2 - Virtualenv
+3 - Pip
+4 - pipenv
+5 - Pytest
+6 - Pytest-Mock
+
